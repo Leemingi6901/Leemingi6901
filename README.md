@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1589927986089-35812388d1d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNwYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="space banner" width="100%" height="auto"/>
+</p>
+
 <h1 align="center">
   Hi there 👋, I'm <a href="https://your-blog-link" target="_blank">Mengi (Daniel)</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
