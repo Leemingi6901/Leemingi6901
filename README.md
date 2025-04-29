@@ -27,23 +27,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leemingi6901&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leemingi6901&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leemingi6901&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
-## 🎶 Current Mood
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Mengi's+IT+World!;Linux+is+Love+💻;Cloud+is+the+Future+☁️;Keep+Learning,+Keep+Building!+🚀" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leemingi6901&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leemingi6901&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leemingi6901&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
