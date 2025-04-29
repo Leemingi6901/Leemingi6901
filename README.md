@@ -1,33 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mengi (Daniel)</h1>
-<h3 align="center">A passionate Infra/Network Engineer and Tech Blogger</h3>
+<h1 align="center">
+  Hi there 👋, I'm <a href="https://your-blog-link" target="_blank">Mengi (Daniel)</a>!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leemingi6901&label=Profile%20views&color=0e75b6&style=flat" alt="Leemingi6901" />
-</p>
-
-- 🔭 I’m currently working on **Linux, Docker, Kubernetes, AWS**
-- 🌱 I’m currently learning **Cloud Infra Automation**
-- 👨‍💻 My blog: [Mengi's IT Blog](https://your-blog-link)
-- 📫 How to reach me: **your-email@example.com**
-- ✍️ I love writing tech articles and sharing knowledge.
+<h3 align="center">An Infra/Network Engineer 🚀 | Cloud Lover ☁️ | IT Blogger ✍️</h3>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 Tech Stack and Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,gcp,prometheus,grafana,terraform,git" />
 </p>
 
 ---
 
-### ✨ GitHub Stats
+## 🚀 About Me
+
+- 🔥 Passionate about Linux, Docker, Kubernetes, and Cloud Infra!
+- 🛠️ Building real-world systems and automating infrastructures
+- 📖 Sharing knowledge through [Mengi's IT Blog](https://your-blog-link)
+- 🎯 Always learning, always growing 🌱
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leemingi6901&show_icons=true&locale=en" alt="Leemingi6901" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leemingi6901&show_icons=true&locale=en&layout=compact" alt="Leemingi6901" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leemingi6901&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leemingi6901&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leemingi6901&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🎶 Current Mood
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Mengi's+IT+World!;Linux+is+Love+💻;Cloud+is+the+Future+☁️;Keep+Learning,+Keep+Building!+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## ☁️ Connect with me
+
+<p align="center">
+  <a href="https://your-blog-link" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Mengi's_IT_Blog-blue?style=for-the-badge&logo=github" alt="blog" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Daniel@example.com-red?style=for-the-badge&logo=gmail" alt="email" />
+  </a>
 </p>
