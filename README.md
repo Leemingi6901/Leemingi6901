@@ -35,10 +35,10 @@
 ## ☁️ Connect with me
 
 <p align="center">
-  <a href="https://your-blog-link" target="_blank">
+  <a href="[https://your-blog-link](https://leemingi6901.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Blog-Mengi's_IT_Blog-blue?style=for-the-badge&logo=github" alt="blog" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Daniel@example.com-red?style=for-the-badge&logo=gmail" alt="email" />
+  <a href="mailto:leemingi69012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-leemingi69012@gmail.com-red?style=for-the-badge&logo=gmail" alt="email" />
   </a>
 </p>
