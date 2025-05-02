@@ -24,43 +24,37 @@
 
 ---
 ## 💼 Career Highlights
-2024.12 ~ Present: Hana Financial Convergence Technology Institute
-Infra & Network Operations in DT Lab
-Managed L3/L2 Switches (Cisco, Extreme)
-Built and enhanced monitoring systems using Zabbix & Grafana
-Migrated CentOS to Rocky 8 OS
-Integrated GPUs (Nvidia A100, V100, H100) with Linux and managed Docker
-Operated various solutions (Cloudoc, Confluence, Jira, Gitlab)
-Created/deleted servers in OpenStack Cloud
-Handled in-house infrastructure issues and managed maintenance vendors
 
-2023.06 ~ 2024.12: Highland Food
-IT Administrator for Highland Food and Innovation
-Operated Cisco L3/L2 Switches
-Built Zabbix, configured Samba Server policies
-Planned and operated OfficeKeeper (DLP)
-Designed network diagrams for new offices
-Operated ERP System and maintained PDA programs
-Managed Zebra label printers
-Responded to company-wide IT issues and provided Help Desk support
-
-2022.08 ~ 2023.06: Bioplus
-Solely managed company-wide IT and infrastructure
-Procured and configured Switches, Firewalls, and Servers
-Integrated Samba Server with Netcloud
-Introduced centralized antivirus (ESET)
-Drafted new factory blueprints (CAD) and provided Help Desk support
-
-2022.04 ~ 2022.07: Blockchain Company
-Handled information and personal data protection
-Responded to and passed ISMS certification audits
-Operated security solutions like NAC, DLP, and antivirus
-Managed Cisco Switches and provided Help Desk support
-
-2021.08 ~ 2022.04: Econet System
-Technical sales and consulting for AhnLab public institutions
-Provided system technical support to Army Headquarters
-Prepared proposals and handled bidding processes
+<table align="center">
+  <tr>
+    <td><b>2024.12 ~ Present</b></td>
+    <td><b>Hana Financial Convergence Technology Institute</b><br>
+      Infra & Network (DT Lab) / OpenStack / GPU 서버 운영<br>
+      Grafana · Zabbix · Linux Rocky · Docker 기반 모니터링 구축</td>
+  </tr>
+  <tr>
+    <td><b>2023.06 ~ 2024.12</b></td>
+    <td><b>Highland Food</b><br>
+      전사 IT 시스템 관리 / ERP · DLP · Samba · PDA 시스템 운영<br>
+      네트워크 구성도 설계 및 Zabbix 구축</td>
+  </tr>
+  <tr>
+    <td><b>2022.08 ~ 2023.06</b></td>
+    <td><b>Bioplus</b><br>
+      단독 인프라 관리 / Switch · FW · Samba 구축<br>
+      공장 CAD 도면 작성 및 Help Desk</td>
+  </tr>
+  <tr>
+    <td><b>2022.04 ~ 2022.07</b></td>
+    <td><b>블록체인컴퍼니</b><br>
+      ISMS 대응 및 통과 / NAC · DLP · 백신 운영 / Switch & Help Desk</td>
+  </tr>
+  <tr>
+    <td><b>2021.08 ~ 2022.04</b></td>
+    <td><b>Econet System</b><br>
+      안랩 공공기관 기술영업 / 육군본부 지원 / 제안서 & 입찰</td>
+  </tr>
+</table>
 
 ---
 
