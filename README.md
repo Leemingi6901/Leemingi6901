@@ -23,6 +23,46 @@
 - 🎯 Always learning, always growing 🌱
 
 ---
+## 💼 Career Highlights
+2024.12 ~ Present: Hana Financial Convergence Technology Institute
+Infra & Network Operations in DT Lab
+Managed L3/L2 Switches (Cisco, Extreme)
+Built and enhanced monitoring systems using Zabbix & Grafana
+Migrated CentOS to Rocky 8 OS
+Integrated GPUs (Nvidia A100, V100, H100) with Linux and managed Docker
+Operated various solutions (Cloudoc, Confluence, Jira, Gitlab)
+Created/deleted servers in OpenStack Cloud
+Handled in-house infrastructure issues and managed maintenance vendors
+
+2023.06 ~ 2024.12: Highland Food
+IT Administrator for Highland Food and Innovation
+Operated Cisco L3/L2 Switches
+Built Zabbix, configured Samba Server policies
+Planned and operated OfficeKeeper (DLP)
+Designed network diagrams for new offices
+Operated ERP System and maintained PDA programs
+Managed Zebra label printers
+Responded to company-wide IT issues and provided Help Desk support
+
+2022.08 ~ 2023.06: Bioplus
+Solely managed company-wide IT and infrastructure
+Procured and configured Switches, Firewalls, and Servers
+Integrated Samba Server with Netcloud
+Introduced centralized antivirus (ESET)
+Drafted new factory blueprints (CAD) and provided Help Desk support
+
+2022.04 ~ 2022.07: Blockchain Company
+Handled information and personal data protection
+Responded to and passed ISMS certification audits
+Operated security solutions like NAC, DLP, and antivirus
+Managed Cisco Switches and provided Help Desk support
+
+2021.08 ~ 2022.04: Econet System
+Technical sales and consulting for AhnLab public institutions
+Provided system technical support to Army Headquarters
+Prepared proposals and handled bidding processes
+
+---
 
 ## 📈 GitHub Stats
 <p align="center">
